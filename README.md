@@ -10,7 +10,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-4-Analytical-Chemistry-Articles/blob/master/anl(2).pdf" style="text-decoration:none;">Automatic Recording Apparatus for Use in the Chromatography of Amino Acids</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-4-Analytical-Chemistry-Articles/blob/master/anl(3).pdf" style="text-decoration:none;">
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-4-Analytical-Chemistry-Articles/blob/master/anl(3).PDF" style="text-decoration:none;">
 Colorimetric Method for Determination of Sugars and Related Substances </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-4-Analytical-Chemistry-Articles/blob/master/anl(4).pdf" style="text-decoration:none;">Theory of Stationary Electrode Polarography</a></li>                              
 </ul>
